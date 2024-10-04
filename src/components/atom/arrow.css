@@ -1,0 +1,6 @@
+.arrow{
+    transition: background .4s;
+}
+.arrow:hover{
+    background: #bebebe;
+}

@@ -1,0 +1,11 @@
+body{
+    background: #ffffff;
+}
+.img-container img{
+    transition: opacity .4s, transform .4s;
+}
+.img-container img:hover{
+    opacity: .92;
+    cursor: pointer;
+    transform: scale(1.01);
+}
